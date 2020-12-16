@@ -1,0 +1,188 @@
+* {padding:0;
+	margin:0;}
+a {text-decoration: none;}
+ul{list-style: none;}
+.clear:after{
+	content: '';
+	display: block;
+	height:0;}
+.backgroundone{
+	background:black;
+	height:120px;
+	margin:0 auto;}
+.a{width:1300px;
+   margin:0 auto;
+   height:120px;}
+a{color:white;
+  font-size:25px;}
+.logo{
+	height:80px;
+	width:500px;
+	margin:20px 20px;
+	float:left;
+	right:40px;
+    position:relative;}
+.img0{float:left;
+      height:120px;
+      width:250px;}
+.box{
+	height:18px;
+	float:left;
+	margin:20px 10px;}
+.box>li{
+	height:37px;
+	float:left;
+	font-size:18px;
+	padding-bottom: 10px;
+    margin-right:10px;}
+.box li a{
+	display:inline-block;
+	color:yellow;
+	margin:14px 8px;} 
+.box>li a:hover{color:purple;}
+.form{
+	float: right;
+	margin-top: 40px;}
+.sousuo{
+	float: left;
+	width: 300px;
+	height: 38px;
+    padding-left:19px;
+    border:3px solid yellow;
+    background-color:rgba(0,0,0,0.5);}
+.submit{
+	width:40px;
+	height:44px;
+	background-image: url(images/a2.png);
+	background-color:yellow;
+	background-repeat:no-repeat;
+	vertical-align: bottom;
+	border:3px solid yellow;
+	background-position: center;
+	float: left;}
+.d{color:#fff;
+   height:180px;
+   line-height:20px;
+   text-align:center;
+   background:#000;
+   vertical-align:middle;}
+.backgroundtwo{
+	background-image:url(images/2.jpg);
+	height:1200px;}
+.b{height:300px;}
+p{
+	color:white;
+	font-size:20px;
+}
+.backgroundtwo>p{
+  font-size:20px;
+  width:800px;
+text-align:center;}
+span{color:white;}
+.backgroundtwo>.b>.img1{
+	float:right;
+	height:200px;
+	margin:50px 20px;}
+.backgroundtwo>.b>.img2{
+	float:left;
+	height:200px;
+	margin:50px 20px;}
+.background>.b>div{
+	float:left;
+	margin:50px 20px;
+    display:block;}
+.wan{
+	float:left;
+	margin:60px 130px;}
+.e1 a{
+	height:15px;
+	font-size:20px;
+	color:yellow;
+	line-height:20px;}
+.e2 a{
+	color:yellow;
+	font-size:20px;
+	line-height:20px;}
+.lineheight{margin-top: 10px;}
+
+.backgroundtwo>.b>.bigbig{
+	float:left;
+	height:200px;
+	width:620px;
+}	
+.backgroundtwo>.b>.bigbig>.big{
+	height:200px;
+	width:310px;
+}
+.backgroundtwo>.b>.bigbig>.big>.boxone{height:80px;
+	width:200px;
+	float:left;
+	margin-bottom:5px;
+}
+.backgroundtwo>.b>.bigbig>.boxfive{
+	height:200px;
+	width:300px;
+	bottom:200px;
+	left:300px;
+	position:relative;
+}
+.boxthree{height:30px;
+	width:200px;
+	float:left;
+	border:solid 1px;
+	position:relative;
+}
+.boxtwo{height:50px;
+	width:200px;
+	float:left;
+	margin-bottom:5px;
+	position:relative;
+}
+.boxfour{height:30px;
+	width:200px;
+	float:left;
+	border:solid 1px;
+	position:relative;
+}
+.backgroundtwo>.b>.bigbig>.boxfive>#boxsix{height:50px;
+	width:200px;
+	float:left;
+	margin-bottom:5px;
+	position:relative;
+}
+.backgroundtwo>.b>.bigbig>.boxfive>#boxseven{height:50px;
+	width:200px;
+	float:left;
+	margin-bottom:5px;
+	position:relative;
+}
+.backgroundtwo>.b>.bigbig>.boxfive>#boxeight{height:50px;
+	width:200px;
+	float:left;
+	position:relative;
+}
+#ipone{
+	width:118px;
+	height:20px;
+	border:0px;
+	background:rgba(0,0,0,0);
+}
+#iptwo{
+	width:118px;
+	height:20px;
+	border:0px;
+	background:rgba(0,0,0,0);
+}
+.btn{
+	width:200px;
+	height:50px;
+	background-color:white; 
+}
+.t{
+	position:fixed;
+	color:white;
+	height:100px;
+	width:300px;
+	top:100px;
+	right:100px;
+}
